@@ -1,0 +1,24 @@
+---
+content_type: page
+title: Readings
+uid: 84aeefbe-fdef-f451-c05b-0bf70eb2ee35
+---
+
+The following table lists the papers associated with each presentation at the 2006 Scene Understanding Symposium. All readings are courtesy of the person named and used with permission.
+
+| TIME | TOPICS | READINGS |
+| --- | --- | --- |
+| 8:55 | Opening Remarks | &nbsp; |
+| 9:00-9:20 | From Zero to Gist in 200 msec: The Time Course of Scene Recognition | Oliva, Aude, and Antonio Torralba. "Building the Gist of a Scene: The Role of Global Image Features in Recognition." ([PDF - 1.0 MB]({{< baseurl >}}/resources/900paper1))  {{< br >}}  {{< br >}}Greene, Michelle R., and Aude Oliva. "Natural Scene Categorization from Conjunctions of Ecological Global Properties." ([PDF]({{< baseurl >}}/resources/900paper2)) |
+| 9:20-9:45 | Feedforward Theories of Visual Cortex Predict Human Performance in Rapid Image Categorization | Serre, Thomas, Minjoon Kouh, Charles Cadieu, Ulf Knoblich, Gabriel Kreiman, and Tomaso Poggio. "A Theory of Object Recognition: Computations and Circuits in the Feedforward Path of the Ventral Stream in Primate Visual Cortex." ([PDF - 6.1 MB]({{< baseurl >}}/resources/920paper1))  {{< br >}}  {{< br >}}Serre, Thomas, Lior Wolf, and Tomaso Poggio. "Object Recognition with Features Inspired by Visual Cortex." ([PDF]({{< baseurl >}}/resources/920paper2)) |
+| 9:45-10:05 | Latency, Duration and Codes for Objects in Inferior Temporal Cortex | Hung, Chou P., Gabriel Kreiman, Tomaso Poggio, and James J. DiCarlo. "Fast Readout of Object Identity from Macaque Inferior Temporal Cortex." _Science_ 310 (2005): 863-866.  {{< br >}}  {{< br >}}Kreiman, Gabriel, Chou P. Hung, Alexander Karskov, Rodrigo Quian Quiroga, Tomaso Poggio, and James J. DiCarlo. "Object Selectivity of Local Field Potentials and Spikes in the Macaque Inferior Temporal Cortex." _Neuron_ 49 (2006): 433-445. |
+| 10:25-10:50 | From Feedforward Vision to Natural Vision: The Impact of Free Viewing, Task, and Clutter on Monkey Inferior Temporal Object Representations | DiCarlo, James J., and John H. R. Maunsell. "Form Representation in Monkey Inferotemporal Cortex Is Virtually Unaltered by Free Viewing." _Nature Neuroscience_ 3 (2000): 814-821.  {{< br >}}  {{< br >}}Zoccolan, Davide, David D. Cox, and James J. DiCarlo. "Multiple Object Response Normalization in Monkey Inferotemporal Cortex." _The Journal of Neuroscience_ 25 (2005): 8150-8164.  {{< br >}}  {{< br >}}Hung, Chou P., Gabriel Kreiman, Tomaso Poggio, and James J. DiCarlo. "Fast Readout of Object Identity from Macaque Inferior Temporal Cortex." _Science_ 310 (2005): 863-866. |
+| 10:50-11:10 | Invariant Visual Representations of Natural Images by Single Neurons in the Human Brain | Quiroga, R. Quian, L. Reddy, G. Kreiman, C. Koch, and I. Fried. "Invariant Visual Representation by Single Neurons in the Human Brain." _Nature_ 435 (2005): 1102-1107. |
+| 11:10-11:40 | Perception of Objects in Natural Scenes and the Role of Attention | Evans, Karla K., and Anne Treisman. "Perception of Objects in Natural Scenes: Is It Really Attention Free?" _Journal of Experimental Psychology: Human Perception and Performance_ 31 (2005): 1476-1492. |
+| 1:00-1:25 | Natural Scene Categorization: From Humans to Computers | &nbsp; |
+| 1:25-1:50 | Contextual Associations in the Brain | Bar, Moshe. "Visual Objects in Context." _Nature Reviews_ 5 (2004): 617-629. |
+| 1:50-2:15 | Using the Forest to See the Trees: A Computational Model Relating Features, Objects and Scenes | Torralba, Antonio. "Contextual Priming for Object Detection." _International Journal of Computer Vision_ 53 (2003): 169-191.  {{< br >}}  {{< br >}}Murphy, Kevin, Antonio Torralba, and William T. Freeman. "Using the Forest to See the Trees: A Graphical Model Relating Features, Objects, and Scenes." ([PDF]({{< baseurl >}}/resources/1350paper2))  {{< br >}}  {{< br >}}Oliva, Aude, Antonio Torralba, Monica S. Castelhano, and John M. Henderson. "Top Down Control of Visual Attention in Object Detection." ([PDF]({{< baseurl >}}/resources/1350paper3)) |
+| 2:25-2:45 | Detecting and Remembering Pictures With and Without Visual Noise | &nbsp; |
+| 2:45-3:05 | Scene Perception after Those First Few Hundred Milliseconds | Oliva, Aude, Jeremy M. Wolfe, and Helga C. Arsenio. "Panoramic Search: The Interaction of Memory and Vision in Search Through a Familiar Scene." _Journal of Experimental Psychology: Human Perception and Performance_ 30 (2004): 1132-1146.  {{< br >}}  {{< br >}}Wolfe, Jeremy M. "Guided Search 4.0: Current Progress with a Model of Visual Search." ([PDF]({{< baseurl >}}/resources/1445paper2)) |
+| 3:05-3:35 | The Artist as Neuroscientist | &nbsp; |
+| 4:00-5:00 | Brain and Cognitive Sciences Colloquium - Scene Processing with a Wave of Spikes: Reverse Engineering the Visual System |
